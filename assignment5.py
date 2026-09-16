@@ -1,3 +1,5 @@
+import re
+
 # 1. Variable Declaration & User Input
 user_string = input("Enter a string: ")
 
